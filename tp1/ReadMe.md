@@ -1,4 +1,5 @@
-#TP1 - Desenvolvimento de Serviços Web e Windows Azure#
-##Magno Valdetaro de Oliveira###
+## TP1 - Desenvolvimento de Serviços Web e Windows Azure
 
-http://myfirstazurewebapp20180415115423.azurewebsites.net/
+*Magno Valdetaro de Oliveira*
+
+[http://myfirstazurewebapp20180415115423.azurewebsites.net/](http://myfirstazurewebapp20180415115423.azurewebsites.net/)
